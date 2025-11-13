@@ -7,7 +7,7 @@ This repository contains example code and Jupyter Notebooks used for a blog seri
 - Small Python scripts or helpers used by the notebooks.
 - Example datasets or sample outputs produced by the notebooks.
 
-## Key topics (examples)
+## Key topics
 - Downloading data with requests
 - Web scraping with BeautifulSoup / lxml
 - Working with APIs (authentication, pagination, rate limits)
